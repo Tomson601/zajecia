@@ -15,3 +15,7 @@ Strona z moimi raportami
 - [Wprowadzenie](wprowadzenie.html)
 - [Wizualizacje](wizualizacje.html)
 - [Rozmiary diamentów](rozmiary-diamentow.html)
+
+## O mnie
+
+- [CV](cv.html)

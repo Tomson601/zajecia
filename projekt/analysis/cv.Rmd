@@ -1,0 +1,21 @@
+---
+title: "CV"
+---
+
+## Imię Nazwisko
+
+**E-mail:** twoj@email.pl  
+**GitHub:** [twoj-login](https://github.com/twoj-login)
+
+### Wykształcenie
+
+- 20XX–obecnie: Informatyka i Inżynieria Danych, Uniwersytet Przyrodniczy w Poznaniu
+
+### Umiejętności
+
+- R (tidyverse, ggplot2, R Markdown, workflowr)
+- Git i GitHub
+
+### Zainteresowania
+
+- ...
