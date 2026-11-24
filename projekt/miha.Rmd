@@ -1,0 +1,17 @@
+---
+title: "Zajęcia z R"
+site: workflowr::wflow_site
+output:
+  workflowr::wflow_html:
+    toc: false
+editor_options:
+  chunk_output_type: console
+---
+
+Strona z moimi raportami
+
+## Analizy
+
+- [Wprowadzenie](wprowadzenie.html)
+- [Wizualizacje](wizualizacje.html)
+- [Rozmiary diamentów](rozmiary-diamentow.html)
